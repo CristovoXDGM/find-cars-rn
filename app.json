@@ -1,0 +1,12 @@
+{
+  "name": "find-cars-rn",
+  "displayName": "find-cars-rn",
+  "expo": {
+    "name": "find-cars-rn",
+    "slug": "find-cars-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
